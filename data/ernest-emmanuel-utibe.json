@@ -1,0 +1,19 @@
+{
+  "name": "Ernest Emmanuel Utibe",
+  "bio": "Open Source Dev | Software Engineer (https://biodrop.io) | **GitHub** Star",
+  "links": [
+    {
+      "group": "Business",
+      "name": "Business: Dev Services",
+      "url": "http://ernestemmanuelutibe.io",
+      "icon": "FaLink"
+    },
+    {
+      "group": "Socials Primary",
+      "name": "LinkedIn: Connect with me",
+      "url": "https://www.linkedin.com/in/emmanuel-ernest/",
+      "icon": "FaLinkedIn",
+      "color": "#00ACEE"
+    },
+  ]
+}
